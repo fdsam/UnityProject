@@ -21,4 +21,4 @@ Dublicamos el fuente del luz
 -   Agregar agua y árboles en el terreno
 En la ventanilla del inspector del terreno que hemos creado, aparece múltiple opciones para añadir elemento en el terreno y elegimos la opción de añadir arboles,
 
-![Alt text](relative/path/to/img.jpg?raw=true "Captura.PNG")
+![Screenshot](Captura.PNG)
