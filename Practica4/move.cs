@@ -36,7 +36,7 @@ public class move : MonoBehaviour
 
         Vector3 move = new Vector3(horizontal, 0.0f, vertical);
 
-        //player.transform.Translate(move * Time.deltaTime * speed);
+        
         rb.AddForce(move * speed);
 
         if (Input.GetKey(KeyCode.Q))
