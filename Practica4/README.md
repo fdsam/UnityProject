@@ -1,6 +1,7 @@
 # Físicas en Unity
 
-- colisione con una esfera ,  incrementar un contador , cambio de color
+- colisione con una esfera ,  incrementar un contador , cambio de color.
+
     Creamos 2 esferas uno de ellos es controlado por el jugador mediante entradas por el teclado, luego a añadimos un rigidboy a la esfera, eso tambien hacemos con la otra esfera con un rigidbody, pero esta esfera su rigidbody es Kinematic.
     La velocidad de la esfera del jugador va moviendo mediante  AddForce(move * speed);
     
